@@ -5,6 +5,16 @@ Atualmente atuo como **Instrutor de Informática** e estou no último ano do tec
 ## 🎯 Objetivo de Carreira
 Busco oportunidades de **estágio** na área de TI para aplicar e aprimorar meus conhecimentos em Servidores, Contêineres e Redes, utilizando minha base técnica e acadêmica sólida.
 
+## 🚀 Projeto em Destaque: Meu Portfólio Profissional
+
+Recentemente, desenvolvi e publiquei minha Landing Page pessoal para apresentar meus serviços e projetos.
+
+* **O que usei:** HTML5 (estrutura), CSS3 com Flexbox (design moderno) e Vercel (para colocar o site no ar).
+* **Destaque técnico:** O site é totalmente responsivo, funcionando bem no celular e no computador.
+* **Status:** No momento, estou refatorando o código para utilizar Tailwind CSS e melhorar ainda mais a performance.
+
+🔗 **Veja o site ao vivo:** [https://hugoklhen-solucoes.vercel.app](https://hugoklhen-solucoes.vercel.app)
+
 ## 🛠️ Base Técnica e Acadêmica
 
 * **Linguagens:** Estudo contínuo de **C# e .NET**.

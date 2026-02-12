@@ -1,4 +1,4 @@
-# Olá, eu sou o Hugo Klhen!
+# Hugo Klhen!
 
 Atualmente atuo como **Instrutor de Informática** e estou no último ano do técnologo em TI. Com foco em **Cloud Computing** e **Desenvolvimento Backend (.NET/C#)**.
 

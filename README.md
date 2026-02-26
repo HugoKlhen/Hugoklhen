@@ -1,6 +1,6 @@
 # Hugo Klhen!
 
-Atualmente atuo como **Instrutor de Informática** e estou no último ano do técnologo em TI. Com foco em **Cloud Computing** e **Desenvolvimento Backend (.NET/C#)**.
+Atualmente atuo como **Instrutor de Informática** e estou no último ano do técnologo em TI. Com foco em **Cloud Computing** e **Desenvolvimento Front-End(TypeScript)**.
 
 ## 🎯 Objetivo de Carreira
 Busco oportunidades de **estágio** na área de TI para aplicar e aprimorar meus conhecimentos em Servidores, Contêineres e Redes, utilizando minha base técnica e acadêmica sólida.
@@ -17,7 +17,7 @@ Recentemente, desenvolvi e publiquei minha Landing Page pessoal para apresentar 
 
 ## 🛠️ Base Técnica e Acadêmica
 
-* **Linguagens:** Estudo contínuo de **C# e .NET**.
+* **Linguagens:** Estudo contínuo de **TypeScript**.
 * **Foco Atual (1º Trimestre/2026):**
   - Introdução à Visualização de Dados e SQL.
   - Introdução à Programação com Python.
@@ -31,10 +31,6 @@ Recentemente, desenvolvi e publiquei minha Landing Page pessoal para apresentar 
 ### 🖥️ Infraestrutura Microsoft
 * **Windows Server:** Administração, Segurança, Automação, Serviços de Diretório (AD) e Identidade.
 * **Fundamentos:** Redes de Computadores e Cibersegurança.
-
-## 📜 Certificações em Preparação
-* 🎓 **AWS Certified Cloud Practitioner** (CLF-C02)
-* 🎓 **Microsoft Certified: Azure Fundamentals** (AZ-900)
 
 ---
 

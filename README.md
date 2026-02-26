@@ -1,9 +1,9 @@
 # Hugo Klhen!
 
-Atualmente atuo como **Instrutor de Informática** e estou no último ano do técnologo em TI. Com foco em **Cloud Computing** e **Desenvolvimento Front-End(TypeScript)**.
+Atualmente atuo como **Instrutor de Informática** e estou no último ano do técnologo em TI. Com foco em **Cloud Computing** e **Desenvolvimento Front-End (TypeScript)**.
 
 ## 🎯 Objetivo de Carreira
-Busco oportunidades na área de TI para aplicar e aprimorar meus conhecimentos em Servidores, Contêineres e Redes, utilizando minha base técnica e acadêmica sólida.
+Busco oportunidades na área de TI para aplicar e aprimorar meus conhecimentos e minha base técnica e acadêmica.
 
 ## 🚀 Projeto em Destaque: Meu Portfólio Profissional
 
